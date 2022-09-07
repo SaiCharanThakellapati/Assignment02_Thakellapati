@@ -16,7 +16,7 @@ Indira Gandhi International Airport
 7.continue onto IA-148 N
 locations around the museum that you would recommend for others
 - The Rail's 3D Virtual Train ride
-- The Rail's Steam loco Simulator 
+- The Rail's Steam loco Simulato 
 - The Rail's Miniature India and Indoor Gallery is famous among children
 [Aboutfile](AboutMe.md)
 
