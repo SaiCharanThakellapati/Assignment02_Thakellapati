@@ -32,14 +32,14 @@ _ _ _
 
 _ _ _
 # Quotes
->Stop Letting People who do so little for you control so much of your mind, feelings, & emotions. – Will Smith
+>Stop Letting People who do so little for you control so much of your mind, feelings, & emotions. – ***Will Smith***
 
->All life is an experiment. The more experiments you make, the better. – Ralph Waldo Emerson
+>All life is an experiment. The more experiments you make, the better. – ***Ralph Waldo Emerson***
 
 _ _ _
 # code fencing
 >How to Comments in CSS?
-4[comments](https://www.w3schools.com/css/css_comments.asp)
+[comments](https://www.w3schools.com/css/css_comments.asp)
 ```
 body {
   font-family: system-ui;
