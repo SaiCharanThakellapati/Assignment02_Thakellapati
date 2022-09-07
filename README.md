@@ -16,8 +16,19 @@ Indira Gandhi International Airport
 7.continue onto IA-148 N
 locations around the museum that you would recommend for others
 - The Rail's 3D Virtual Train ride
-- The Rail's Steam loco Simulato 
+- The Rail's Steam loco Simulator
 - The Rail's Miniature India and Indoor Gallery is famous among children
 [Aboutfile](AboutMe.md)
 
+_ _ _
+# Table for visiting places in Missouri
+10 Best Places To Visit in Missouri
+| Name  Of The City | Location to Visit | Amount of time to spend |
+| --- | --- | --- |
+| Meramec Township | Meramec State Park | 2hrs |
+| Bixby | Mark Twain National Forest | 3hrs |
+| Ozarks | Ozark National Scenic Riverways | 3hrs |
+| Ozarks | Lake of the Ozarks | 2hrs |
+
+_ _ _
 
