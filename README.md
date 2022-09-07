@@ -31,4 +31,7 @@ _ _ _
 | Ozarks | Lake of the Ozarks | 2hrs |
 
 _ _ _
+# Quotes
+>Stop Letting People who do so little for you control so much of your mind, feelings, & emotions. – Will Smith
 
+>All life is an experiment. The more experiments you make, the better. – Ralph Waldo Emerson
